@@ -10,11 +10,11 @@
     <atom:link href="http://blog.nikhil.sh/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First post with Hugo</title>
-      <link>http://blog.nikhil.sh/blog/2015/02/08/first-post-with-hugo/</link>
+      <title>First post</title>
+      <link>http://blog.nikhil.sh/blog/2015/02/08/first-post/</link>
       <pubDate>Sun, 08 Feb 2015 19:00:00 +0100</pubDate>
       
-      <guid>http://blog.nikhil.sh/blog/2015/02/08/first-post-with-hugo/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/08/first-post/</guid>
       <description>&lt;p&gt;I was a little &lt;em&gt;bored&lt;/em&gt; with the previous look and decided to play around with some other static HTML generators. I did like that I could edit the website directly in GitHub but I still decided to move away from the current setup with &amp;ldquo;Jekyll Now&amp;rdquo;. It&amp;rsquo;s more fun to edit files in &lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34;&gt;atom&lt;/a&gt; anyway.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been playing with &lt;a href=&#34;https://golang.org/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Go&lt;/strong&gt;&lt;/a&gt; lately and decided to look for a static HTML generator in Go. That was when I met &lt;a href=&#34;http://gohugo.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, described as &amp;ldquo;A Fast &amp;amp; Modern Static Website Engine&amp;rdquo;.&lt;/p&gt;
