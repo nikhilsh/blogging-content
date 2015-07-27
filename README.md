@@ -1,7 +1,7 @@
-blog.nikhil.sh
-----------
+harkx.com
+---------
 
-This is the repo to build my blog for fun. (blog.nikhil.sh)
+This is the repo that holds the static HTML for my personal homepage. (harkx.com)
 
 ### License
 
