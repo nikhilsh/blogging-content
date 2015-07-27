@@ -1,9 +1,7 @@
-harkx-hugo
+blog.nikhil.sh
 ----------
 
-This is the repo to build my personal homepage. (harkx.com)
-
-The static HTML is located in the repo https://github.com/harkx/harkx.github.io
+This is the repo to build my blog for fun. (blog.nikhil.sh)
 
 ### License
 
