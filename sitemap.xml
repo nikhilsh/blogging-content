@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://harkx.com/</loc>
+    <loc>http://blog.nikhil.sh/</loc>
     <lastmod>2015-02-23T19:26:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</loc>
+    <loc>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</loc>
     <lastmod>2015-02-23T19:26:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkx.com/blog/2015/02/12/cheat-sheets/</loc>
+    <loc>http://blog.nikhil.sh/blog/2015/02/12/cheat-sheets/</loc>
     <lastmod>2015-02-12T19:40:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkx.com/blog/2015/02/11/useful-git-commands/</loc>
+    <loc>http://blog.nikhil.sh/blog/2015/02/11/useful-git-commands/</loc>
     <lastmod>2015-02-11T21:30:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkx.com/blog/2015/02/08/first-post-with-hugo/</loc>
+    <loc>http://blog.nikhil.sh/blog/2015/02/08/first-post-with-hugo/</loc>
     <lastmod>2015-02-08T19:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkx.com/license/</loc>
+    <loc>http://blog.nikhil.sh/license/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://harkx.com/about/</loc>
+    <loc>http://blog.nikhil.sh/about/</loc>
   </url>
   
   <url>
-    <loc>https://harkx.com/links/</loc>
+    <loc>http://blog.nikhil.sh/links/</loc>
   </url>
   
 </urlset>

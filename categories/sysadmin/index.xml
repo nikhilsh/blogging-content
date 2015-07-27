@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sysadmin on harkx</title>
-    <link>https://harkx.com/categories/sysadmin/</link>
-    <description>Recent content in Sysadmin on harkx</description>
+    <title>Sysadmin on Nikhil&#39;s Blog</title>
+    <link>http://blog.nikhil.sh/categories/sysadmin/</link>
+    <description>Recent content in Sysadmin on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Feb 2015 19:26:59 +0100</lastBuildDate>
-    <atom:link href="https://harkx.com/categories/sysadmin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.nikhil.sh/categories/sysadmin/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go, build for a different architecture</title>
-      <link>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</link>
       <pubDate>Mon, 23 Feb 2015 19:26:59 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
       <description>
 
 &lt;p&gt;It happened that I needed to (re)build a small program for an i386 machine.
@@ -71,10 +71,10 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Cheat Sheets</title>
-      <link>https://harkx.com/blog/2015/02/12/cheat-sheets/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/12/cheat-sheets/</link>
       <pubDate>Thu, 12 Feb 2015 19:40:47 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/12/cheat-sheets/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/12/cheat-sheets/</guid>
       <description>&lt;p&gt;The homepage of &lt;strong&gt;&lt;a href=&#34;http://www.cheatography.com/&#34; target=&#34;_blank&#34;&gt;Cheatography&lt;/a&gt;&lt;/strong&gt; not only has a nice collection but you can also generate and share your own cheat sheets.&lt;/p&gt;
 
 &lt;p&gt;Some of my favorites:&lt;/p&gt;

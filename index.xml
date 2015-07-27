@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>harkx</title>
-    <link>https://harkx.com/</link>
-    <description>Recent content on harkx</description>
+    <title>Nikhil&#39;s Blog</title>
+    <link>http://blog.nikhil.sh/</link>
+    <description>Recent content on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Feb 2015 19:26:59 +0100</lastBuildDate>
-    <atom:link href="https://harkx.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.nikhil.sh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go, build for a different architecture</title>
-      <link>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</link>
       <pubDate>Mon, 23 Feb 2015 19:26:59 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
       <description>
 
 &lt;p&gt;It happened that I needed to (re)build a small program for an i386 machine.
@@ -71,10 +71,10 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Cheat Sheets</title>
-      <link>https://harkx.com/blog/2015/02/12/cheat-sheets/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/12/cheat-sheets/</link>
       <pubDate>Thu, 12 Feb 2015 19:40:47 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/12/cheat-sheets/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/12/cheat-sheets/</guid>
       <description>&lt;p&gt;The homepage of &lt;strong&gt;&lt;a href=&#34;http://www.cheatography.com/&#34; target=&#34;_blank&#34;&gt;Cheatography&lt;/a&gt;&lt;/strong&gt; not only has a nice collection but you can also generate and share your own cheat sheets.&lt;/p&gt;
 
 &lt;p&gt;Some of my favorites:&lt;/p&gt;
@@ -95,10 +95,10 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>Useful git commands</title>
-      <link>https://harkx.com/blog/2015/02/11/useful-git-commands/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/11/useful-git-commands/</link>
       <pubDate>Wed, 11 Feb 2015 21:30:00 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/11/useful-git-commands/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/11/useful-git-commands/</guid>
       <description>
 
 &lt;p&gt;Here are some Git commands I frequently use, together with a short explanation.&lt;/p&gt;
@@ -136,7 +136,7 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://harkx.com/images/git/gitlog.png&#34; /&gt;
+        &lt;img src=&#34;http://blog.nikhil.sh/images/git/gitlog.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -186,10 +186,10 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>First post with Hugo</title>
-      <link>https://harkx.com/blog/2015/02/08/first-post-with-hugo/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/08/first-post-with-hugo/</link>
       <pubDate>Sun, 08 Feb 2015 19:00:00 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/08/first-post-with-hugo/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/08/first-post-with-hugo/</guid>
       <description>&lt;p&gt;I was a little &lt;em&gt;bored&lt;/em&gt; with the previous look and decided to play around with some other static HTML generators. I did like that I could edit the website directly in GitHub but I still decided to move away from the current setup with &amp;ldquo;Jekyll Now&amp;rdquo;. It&amp;rsquo;s more fun to edit files in &lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34;&gt;atom&lt;/a&gt; anyway.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve been playing with &lt;a href=&#34;https://golang.org/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Go&lt;/strong&gt;&lt;/a&gt; lately and decided to look for a static HTML generator in Go. That was when I met &lt;a href=&#34;http://gohugo.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, described as &amp;ldquo;A Fast &amp;amp; Modern Static Website Engine&amp;rdquo;.&lt;/p&gt;
@@ -217,10 +217,10 @@ Go: Targeting a different architecture&lt;/a&gt;&lt;/li&gt;
     
     <item>
       <title>License</title>
-      <link>https://harkx.com/license/</link>
+      <link>http://blog.nikhil.sh/license/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://harkx.com/license/</guid>
+      <guid>http://blog.nikhil.sh/license/</guid>
       <description>
 
 &lt;h3 id=&#34;content-license:53e892b8b41cc4caece1cfd5ef21d6e7&#34;&gt;Content license&lt;/h3&gt;
@@ -250,15 +250,15 @@ limitations under the License.
     
     <item>
       <title>#whoami</title>
-      <link>https://harkx.com/about/</link>
+      <link>http://blog.nikhil.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harkx.com/about/</guid>
+      <guid>http://blog.nikhil.sh/about/</guid>
       <description>
 
 &lt;p&gt;I am &lt;strong&gt;Kristof Hardy&lt;/strong&gt;. Passionate about travel, information technology and &lt;a title=&#34;Automation&#34; href=&#34;http://en.wikipedia.org/wiki/Automation&#34; target=&#34;_blank&#34;&gt;automation&lt;/a&gt; in all its aspects, living in the eastern part of &lt;a title=&#34;Flemish Brabant&#34; href=&#34;http://en.wikipedia.org/wiki/Flemish_Brabant&#34; target=&#34;_blank&#34;&gt;Flemish Brabant&lt;/a&gt; in Belgium.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.catsanddogs.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://harkx.com/images/cad_logo.png&#34; height=160 align=right&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.catsanddogs.com&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://blog.nikhil.sh/images/cad_logo.png&#34; height=160 align=right&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m working at &lt;a href=&#34;http://www.catsanddogs.com/&#34; target=&#34;_blank&#34;&gt;Cats&amp;amp;Dogs&lt;/a&gt; as an IT specialist. Some of my specialties include (but are not limited to): &lt;a href=&#34;http://en.wikipedia.org/wiki/Getting_Things_Done&#34; target=&#34;_blank&#34;&gt;GTD&lt;/a&gt;, &lt;strong&gt;Linux&lt;/strong&gt;, web based environments, &lt;strong&gt;monitoring&lt;/strong&gt;, VMware, &lt;strong&gt;networking&lt;/strong&gt;, Windows, DNS, ..&lt;/p&gt;
 
@@ -294,10 +294,10 @@ limitations under the License.
     
     <item>
       <title>#links</title>
-      <link>https://harkx.com/links/</link>
+      <link>http://blog.nikhil.sh/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://harkx.com/links/</guid>
+      <guid>http://blog.nikhil.sh/links/</guid>
       <description>
 
 &lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;

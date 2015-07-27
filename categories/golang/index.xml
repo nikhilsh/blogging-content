@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on harkx</title>
-    <link>https://harkx.com/categories/golang/</link>
-    <description>Recent content in Golang on harkx</description>
+    <title>Golang on Nikhil&#39;s Blog</title>
+    <link>http://blog.nikhil.sh/categories/golang/</link>
+    <description>Recent content in Golang on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Feb 2015 19:26:59 +0100</lastBuildDate>
-    <atom:link href="https://harkx.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.nikhil.sh/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go, build for a different architecture</title>
-      <link>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</link>
+      <link>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</link>
       <pubDate>Mon, 23 Feb 2015 19:26:59 +0100</pubDate>
       
-      <guid>https://harkx.com/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/02/23/go-build-for-a-different-architecture/</guid>
       <description>
 
 &lt;p&gt;It happened that I needed to (re)build a small program for an i386 machine.
