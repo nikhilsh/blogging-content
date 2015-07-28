@@ -86,20 +86,6 @@ limitations under the License.
     </item>
     
     <item>
-      <title>#whoami</title>
-      <link>http://blog.nikhil.sh/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/about/</guid>
-      <description>&lt;p&gt;I am &lt;strong&gt;Nikhil Sharma&lt;/strong&gt;. I’m an iOS developer, working at &lt;a href=&#34;http://cubiclerebels.com&#34; title=&#34;Cubiclerebels&#34;&gt;Cubiclerebels&lt;/a&gt; as a freelancer. I am also currently a Junior in Singapore University of Technology and Design, pursuing a degree in Computer Science. You can reach me at &lt;a href=&#34;mailto:me@nikhil.sh&#34; title=&#34;Email&#34;&gt;my email address&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Do check out my [site][3] too!&lt;/p&gt;
-
-&lt;p&gt;[3]:    nikhil.sh&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>#links</title>
       <link>http://blog.nikhil.sh/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,69 +95,29 @@ limitations under the License.
 
 &lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
 
-&lt;h1 id=&#34;dns:424069113a08a4256349764ee38dbbbf&#34;&gt;DNS&lt;/h1&gt;
+&lt;p&gt;// # DNS&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.intodns.com/&#34; target=&#34;_blank&#34;&gt;intoDNS&lt;/a&gt;- Check DNS health&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://w3dt.net/&#34; target=&#34;_blank&#34;&gt;World Wide Web Domain Tools by ITOC Australia&lt;/a&gt;- DNS and Web tools&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;// * &lt;a href=&#34;http://www.intodns.com/&#34; target=&#34;_blank&#34;&gt;intoDNS&lt;/a&gt;- Check DNS health
+// * &lt;a href=&#34;https://w3dt.net/&#34; target=&#34;_blank&#34;&gt;World Wide Web Domain Tools by ITOC Australia&lt;/a&gt;- DNS and Web tools&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#whoami</title>
+      <link>http://blog.nikhil.sh/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/about/</guid>
+      <description>
 
-&lt;h1 id=&#34;linux:424069113a08a4256349764ee38dbbbf&#34;&gt;Linux&lt;/h1&gt;
+&lt;p&gt;I am &lt;strong&gt;Nikhil Sharma&lt;/strong&gt;. I am an iOS developer working for &lt;a href=&#34;http://cubiclerebels.com&#34; target=&#34;_blank&#34;&gt;Cubicle Rebels&lt;/a&gt;. I&amp;rsquo;m a junior
+in Singapore University of Technology and Design, pursuing a degree in Computer Science.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;ftp://cdimage.debian.org/cdimage/archive/&#34; target=&#34;_blank&#34;&gt;Debian CD Image Archive&lt;/a&gt; - Where the older CD/DVD releases of Debian are stored.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://planet.debian.org/&#34; target=&#34;_blank&#34;&gt;Planet Debian&lt;/a&gt; - Planet Debian&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mechanicalkeys.com/files/os/notes/tm.html&#34; target=&#34;_blank&#34;&gt;tmux and screen cheatsheet&lt;/a&gt; - A screen and tmux cheatsheet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gist.github.com/MohamedAlaa/2961058&#34; target=&#34;_blank&#34;&gt;tmux cheatsheet&lt;/a&gt; - tmux cheatsheet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://robots.thoughtbot.com/a-tmux-crash-course&#34; target=&#34;_blank&#34;&gt;tmux Crash Course&lt;/a&gt; tmux Crash course&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;contact-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Contact me&lt;/h3&gt;
 
-&lt;h1 id=&#34;security:424069113a08a4256349764ee38dbbbf&#34;&gt;Security&lt;/h1&gt;
+&lt;p&gt;You can find me on &lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/menikhil&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; and &lt;a title=&#34;Linkedin&#34; href=&#34;http://sg.linkedin.com/in/iamnikhil&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hynek.me/articles/hardening-your-web-servers-ssl-ciphers/&#34; target=&#34;_blank&#34;&gt;Hardening Your Web Server’s SSL Ciphers&lt;/a&gt; - A must read on SSL for your website&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;sysadmin:424069113a08a4256349764ee38dbbbf&#34;&gt;Sysadmin&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blackmanticore.com/&#34; target=&#34;_blank&#34;&gt;Black Manticore&lt;/a&gt; - Technical and sysadmin related blog&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.diffchecker.com/&#34; target=&#34;_blank&#34;&gt;Diff Checker&lt;/a&gt; - Online diff tool to compare text differences&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mailheader.mattiasgeniar.be/&#34; target=&#34;_blank&#34;&gt;Extended Mail Header Parser&lt;/a&gt; - Readability in your mail headers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.adobe.com/products/flashplayer/distribution3.html&#34; target=&#34;_blank&#34;&gt;Flash Player full installers&lt;/a&gt; - Flash Player full installers (including MSI)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://support.google.com/a/?hl=en&#34; target=&#34;_blank&#34;&gt;Google Apps Support Center&lt;/a&gt; - Google Apps Support Center&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://toolbox.googleapps.com/apps/main/&#34; target=&#34;_blank&#34;&gt;Google Apps Toolbox&lt;/a&gt; - Analyze SMTP message headers, Check MX records and more&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lnav.org/&#34; target=&#34;_blank&#34;&gt;LNAV&lt;/a&gt; - The Log File Navigator, An advanced log file viewer for the small-scale&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://packetlife.net/library/cheat-sheets/&#34; target=&#34;_blank&#34;&gt;Networking Cheat Sheets&lt;/a&gt; - Networking Cheat Sheets&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.google.com/speed/pagespeed/insights&#34; target=&#34;_blank&#34;&gt;PageSpeed Insights&lt;/a&gt; - PageSpeed Insights analyzes the content of a web page, then generates suggestions to make that page faster. Reducing page load times can reduce bounce rates and increase conversion rates.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.regexr.com/&#34; target=&#34;_blank&#34;&gt;RegExrv2.0&lt;/a&gt; - RegExr is an online tool to learn, build, &amp;amp; test Regular Expressions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;vmware:424069113a08a4256349764ee38dbbbf&#34;&gt;VMware&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.virten.net/vmware/esxi-release-build-number-history/&#34; target=&#34;_blank&#34;&gt;Virten.net&lt;/a&gt; - VMware ESXi Release and Build Number History&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.virtuallyghetto.com/&#34; target=&#34;_blank&#34;&gt;virtuallyGhetto&lt;/a&gt; - VMware Scripts &amp;amp; Resources&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;windows:424069113a08a4256349764ee38dbbbf&#34;&gt;Windows&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://toolslib.net/downloads/viewdownload/1-adwcleaner/&#34; target=&#34;_blank&#34;&gt;AdwCleaner&lt;/a&gt; - Adware Cleaner&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gpsearch.azurewebsites.net/&#34; target=&#34;_blank&#34;&gt;Group Policy Search&lt;/a&gt; - GPO Search&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.magicaljellybean.com/keyfinder/&#34; target=&#34;_blank&#34;&gt;Jelly Bean Keyfinder&lt;/a&gt;- Keyfinder to retrieve Product Keys&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.microsoft.com/en-us/windows/enterprise/resources-and-tools/default.aspx&#34; target=&#34;_blank&#34;&gt;Windows Enterprise Resources and tools&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;work:424069113a08a4256349764ee38dbbbf&#34;&gt;Work&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx&#34; target=&#34;_blank&#34;&gt;Exchange Online Service Description&lt;/a&gt; - Office 365 Service Description&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://multirbl.valli.org/lookup/&#34; target=&#34;_blank&#34;&gt;Multi-RBL lookup&lt;/a&gt; - Great Multi-RBL IP blacklist lookup tool!&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://portal.microsoftonline.com/&#34; target=&#34;_blank&#34;&gt;Office 365 Portal&lt;/a&gt; - Office 365 Portal&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.testexchangeconnectivity.com/&#34; target=&#34;_blank&#34;&gt;Test Exchange Connectivity&lt;/a&gt; -&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yellow-bricks.com/&#34; target=&#34;_blank&#34;&gt;Yellow Bricks&lt;/a&gt; - Personal Blog about virtualization&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Drop me a mail at &lt;a href=&#34;mailto:me@nikhil.sh?Subject=Hello%20there&#34; target=&#34;_blank&#34;&gt;me@nikhil.sh&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
