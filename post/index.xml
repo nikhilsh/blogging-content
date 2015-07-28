@@ -6,15 +6,15 @@
     <description>Recent content in Posts on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Feb 2015 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2015 19:00:00 +0800</lastBuildDate>
     <atom:link href="http://blog.nikhil.sh/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Post</title>
-      <link>http://blog.nikhil.sh/blog/2015/02/08/first-post/</link>
-      <pubDate>Sun, 08 Feb 2015 19:00:00 +0100</pubDate>
+      <link>http://blog.nikhil.sh/blog/2015/08/27/first-post/</link>
+      <pubDate>Thu, 27 Aug 2015 19:00:00 +0800</pubDate>
       
-      <guid>http://blog.nikhil.sh/blog/2015/02/08/first-post/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/08/27/first-post/</guid>
       <description>&lt;p&gt;I’ve been meaning to make a blog for sometime, in order to just get back to writing, like I used to do when I was younger. This would also serve as a project for me, as I am not too familiar with working with the web.&lt;/p&gt;
 
 &lt;p&gt;I’ve worked with Jekyll, for a bit, when I was making some changes on &lt;a href=&#34;http://rebel.tools&#34; title=&#34;Rebel Tools&#34;&gt;Rebel Tools&lt;/a&gt;, and it was pretty fun so I did consider using Jekyll for this blog. However, I chanced upon &lt;a href=&#34;http://gohugo.io/&#34; title=&#34;Hugo&#34;&gt;Hugo&lt;/a&gt;, which is a static HTML generator in Go.&lt;/p&gt;
