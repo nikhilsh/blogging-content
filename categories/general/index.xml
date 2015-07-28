@@ -10,33 +10,45 @@
     <atom:link href="http://blog.nikhil.sh/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First post</title>
+      <title>First Post</title>
       <link>http://blog.nikhil.sh/blog/2015/02/08/first-post/</link>
       <pubDate>Sun, 08 Feb 2015 19:00:00 +0100</pubDate>
       
       <guid>http://blog.nikhil.sh/blog/2015/02/08/first-post/</guid>
-      <description>&lt;p&gt;I was a little &lt;em&gt;bored&lt;/em&gt; with the previous look and decided to play around with some other static HTML generators. I did like that I could edit the website directly in GitHub but I still decided to move away from the current setup with &amp;ldquo;Jekyll Now&amp;rdquo;. It&amp;rsquo;s more fun to edit files in &lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34;&gt;atom&lt;/a&gt; anyway.&lt;/p&gt;
+      <description>&lt;p&gt;I’ve been meaning to make a blog for sometime, in order to just get back to writing, like I used to do when I was younger. This would also serve as a project for me, as I am not too familiar with working with the web.&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been playing with &lt;a href=&#34;https://golang.org/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Go&lt;/strong&gt;&lt;/a&gt; lately and decided to look for a static HTML generator in Go. That was when I met &lt;a href=&#34;http://gohugo.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hugo&lt;/strong&gt;&lt;/a&gt;, described as &amp;ldquo;A Fast &amp;amp; Modern Static Website Engine&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I’ve worked with Jekyll, for a bit, when I was making some changes on &lt;a href=&#34;http://rebel.tools&#34; title=&#34;Rebel Tools&#34;&gt;Rebel Tools&lt;/a&gt;, and it was pretty fun so I did consider using Jekyll for this blog. However, I chanced upon &lt;a href=&#34;http://gohugo.io/&#34; title=&#34;Hugo&#34;&gt;Hugo&lt;/a&gt;, which is a static HTML generator in Go.&lt;/p&gt;
 
-&lt;p&gt;Why Hugo? It&amp;rsquo;s (really) fast and written in Go. This also means it&amp;rsquo;s multi-platform and has no dependencies. Just like me! (the multi-platform that is)&lt;/p&gt;
+&lt;p&gt;I decided to go with Hugo as it is fast (way faster than Jekyll), and it seems cool to try out a new technology!&lt;/p&gt;
 
-&lt;p&gt;There are no default themes so I decided to go with &lt;a href=&#34;https://github.com/zyro/hyde-x&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Hyde-X&lt;/strong&gt;&lt;/a&gt;, an enhanced port of the Jekyll &lt;em&gt;&amp;ldquo;Hyde&amp;rdquo;&lt;/em&gt; theme.&lt;/p&gt;
+&lt;p&gt;I decided to go with &lt;a href=&#34;https://github.com/zyro/hyde-x&#34; title=&#34;hyde-x&#34;&gt;Hyde-X&lt;/a&gt;, an enhanced port of the Jekyll &lt;em&gt;”Hyde”&lt;/em&gt; theme, as it’s simple and looks clean.&lt;/p&gt;
 
-&lt;p&gt;To summarize, let&amp;rsquo;s see what we have now:
+&lt;p&gt;It was pretty simple to set this blog up. I don’t think that this steps are in the correct order, but it worked :)&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt; The Hugo Go application (a 12 megabyte binary).
-&lt;li&gt; Markdown format for the content. (or HTML where needed)
-&lt;li&gt; GitHub hosting.
-&lt;li&gt; Static HTML. (=fast)
-&lt;li&gt; Mobile ready website.
-&lt;li&gt; Fast and multi-platform engine.
-&lt;li&gt; Two GitHub repositories, one for the Hugo code and one for the static HTML files.
-&lt;/ul&gt;&lt;/p&gt;
+&lt;li&gt;Create a new GitHub repo, and switch the default branch to gh-pages&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;brew install hugo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hugo new site&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;mkdir themes&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd themes&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git clone https://github.com/zyro/hyde-x&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Edit the config.toml file in order to edit content that will be generated&lt;/li&gt;
+&lt;li&gt;And then you just need to run &lt;code&gt;hugo --theme=hyde-x&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;cd into the public folder&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git init&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git remote add origin git@github.com:username/repository&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git commit -m message&lt;/code&gt; to commit locally&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git push origin gh-pages&lt;/code&gt; to push to github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’d like to set up a custom domain, there are different steps to take if you were to set up as a project site versus as your main site. Do read up on GitHub for help with that. As this is a project site, I went to my domain registrar, added a CNAME record that pointed to &lt;code&gt;nikhilsh.github.io&lt;/code&gt; with the &lt;code&gt;blog&lt;/code&gt; as the host. I then went over to the folder named static and added a CNAME file there too.&lt;/p&gt;
+
+&lt;p&gt;And that’s basically it!&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @harkx&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @MeNikhil&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
