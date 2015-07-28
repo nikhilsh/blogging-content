@@ -6,8 +6,34 @@
     <description>Recent content in Posts on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2015 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2015 19:00:00 +0800</lastBuildDate>
     <atom:link href="http://blog.nikhil.sh/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gaming</title>
+      <link>http://blog.nikhil.sh/blog/2015/08/28/gaming/</link>
+      <pubDate>Fri, 28 Aug 2015 19:00:00 +0800</pubDate>
+      
+      <guid>http://blog.nikhil.sh/blog/2015/08/28/gaming/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.dota2.com/international/overview/&#34;&gt;The International 5&lt;/a&gt; is upon us now, and most Dota players are stuck at home, glued to their screens and just watching teams of 5 battle it out for millions. The prize pool now stands at $17.6 million dollars (and rising), surpassing prize pools of major sporting tournaments like the Super Bowl and NBA finals. Why then is eSports still being looked down on as just something nerdy teenagers play because they don’t have other things to do?&lt;/p&gt;
+
+&lt;p&gt;As a &lt;a href=&#34;https://en.wikipedia.org/wiki/Dota_2&#34;&gt;Dota&lt;/a&gt; player myself, I can only offer my opinion on the matter from an Action RTS standpoint.This might sound pretty cliche, but Dota to me, is more than just clicking a mouse quickly. From the subtle mechanics, to the mind games, to the synergy with your teammates, and of course, reaction times make this game more than just a game. Even with thousands of hours played, Dota still offers something new every time you boot a new game out.&lt;/p&gt;
+
+&lt;p&gt;Dota has a very steep learning curve, and it never seems to plateau out, which makes for a very exciting game. People who have just a couple of hundred of hours under the belt, are able to best people who have spent 3000 hours in game. It is an interesting game where you have to be thinking constantly and always outplay your opponent. In that regard, &lt;a href=&#34;https://www.youtube.com/watch?v=55fBpL1IFvU&#34;&gt;Dota is very similar to chess&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The interesting thing about eSports is also the sheer number of people who watch competitive gamers play. Tickets for The International 5, hosted in Seattle’s Key Arena, sold out within minutes, with people coming from all over the world just to watch their favourite team battle it out for the title of being the best team in the world. All this hoohah for a game that is &lt;a href=&#34;https://www.youtube.com/watch?v=UjZYMI1zB9s&#34;&gt;free to play&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The world in general is recognising eSports now. With Amazon paying $1 Billion to grab &lt;a href=&#34;http://twitch.tv&#34;&gt;Twitch.tv&lt;/a&gt; from under Google’s nose, to &lt;a href=&#34;http://blog.ycombinator.com/instant-esports-yc-s15-is-espn-for-competitive-gaming&#34;&gt;YC&lt;/a&gt;’s funding of an eSports startup, eSports is getting bigger. Perhaps one day, we gamers will be able to shed the negative image that associated with gaming.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://profile.ak.fbcdn.net/hprofile-ak-snc4/372835_154528731324940_863073820_n.jpg&#34; alt=&#34;&#34; title=&#34;Typical Gamer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;![../images/neckbeard.jpg]()&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @MeNikhil&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First Post</title>
@@ -45,37 +71,6 @@
 &lt;p&gt;If you’d like to set up a custom domain, there are different steps to take if you were to set up as a project site versus as your main site. Do read up on GitHub for help with that. As this is a project site, I went to my domain registrar, added a CNAME record that pointed to &lt;code&gt;nikhilsh.github.io&lt;/code&gt; with the &lt;code&gt;blog&lt;/code&gt; as the host. I then went over to the folder named static and added a CNAME file there too.&lt;/p&gt;
 
 &lt;p&gt;And that’s basically it!&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @MeNikhil&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://blog.nikhil.sh/blog/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/blog/1/01/01/</guid>
-      <description>&lt;p&gt;date = &amp;ldquo;2015-08-28T19:00:00+08:00&amp;rdquo;
-draft = true
-title = “Gaming”
-description = “Just some thoughts about gaming“
-tags = [ “gaming” , “dota” ]
-categories = [ &amp;ldquo;general&amp;rdquo; ]&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dota2.com/international/overview/&#34;&gt;The International 5&lt;/a&gt; is upon us now, and most Dota players are stuck at home, glued to their screens and just watching teams of 5 battle it out for millions. The prize pool now stands at $17.6 million dollars (and rising), surpassing prize pools of major sporting tournaments like the Super Bowl and NBA finals. Why then is eSports still being looked down on as just something nerdy teenagers play because they don’t have other things to do?&lt;/p&gt;
-
-&lt;p&gt;As a &lt;a href=&#34;https://en.wikipedia.org/wiki/Dota_2&#34;&gt;Dota&lt;/a&gt; player myself, I can only offer my opinion on the matter from an Action RTS standpoint.This might sound pretty cliche, but Dota to me, is more than just clicking a mouse quickly. From the subtle mechanics, to the mind games, to the synergy with your teammates, and of course, reaction times make this game more than just a game. Even with thousands of hours played, Dota still offers something new every time you boot a new game out.&lt;/p&gt;
-
-&lt;p&gt;Dota has a very steep learning curve, and it never seems to plateau out, which makes for a very exciting game. People who have just a couple of hundred of hours under the belt, are able to best people who have spent 3000 hours in game. It is an interesting game where you have to be thinking constantly and always outplay your opponent. In that regard, &lt;a href=&#34;https://www.youtube.com/watch?v=55fBpL1IFvU&#34;&gt;Dota is very similar to chess&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The interesting thing about eSports is also the sheer number of people who watch competitive gamers play. Tickets for The International 5, hosted in Seattle’s Key Arena, sold out within minutes, with people coming from all over the world just to watch their favourite team battle it out for the title of being the best team in the world. All this hoohah for a game that is &lt;a href=&#34;https://www.youtube.com/watch?v=UjZYMI1zB9s&#34;&gt;free to play&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The world in general is recognising eSports now. With Amazon paying $1 Billion to grab &lt;a href=&#34;http://twitch.tv&#34;&gt;Twitch.tv&lt;/a&gt; from under Google’s nose, to &lt;a href=&#34;http://blog.ycombinator.com/instant-esports-yc-s15-is-espn-for-competitive-gaming&#34;&gt;YC&lt;/a&gt;’s funding of an eSports startup, eSports is getting bigger. Perhaps one day, we gamers will be able to shed the negative image that associated with gaming.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://profile.ak.fbcdn.net/hprofile-ak-snc4/372835_154528731324940_863073820_n.jpg&#34; alt=&#34;&#34; title=&#34;Typical Gamer&#34; /&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
