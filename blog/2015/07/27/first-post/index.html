@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Posts &middot; @MeNikhil</title>
+  <title>First Post &middot; @MeNikhil</title>
 
   
   <link rel="stylesheet" href="/css/poole.css">
@@ -28,9 +28,9 @@
   
   
   
-  <link href="http://blog.nikhil.sh/post/index.xml" rel="alternate" type="application/rss+xml" title="Nikhil&#39;s Blog &middot; @MeNikhil" />
+  
 
-  <meta name="description" content="Nikhil&#39;s blog">
+  <meta name="description" content="Trying out a blog using Hugo, a blogging engine made in Go">
   <meta name="keywords" content="nikhil,blog,ios">
   
 </head>
@@ -72,24 +72,76 @@
 
 
 <div class="content container">
-  <ul class="posts">
-  
-    <li><a href="http://blog.nikhil.sh/blog/2015/07/28/gaming/">Gaming</a>
+  <div class="post">
+    <h1>First Post</h1>
+    <span class="post-date">Jul 27, 2015 &middot; 2 minute read &middot; <a href="http://blog.nikhil.sh/blog/2015/07/27/first-post/#disqus_thread">Comments</a>
     
-    &middot;
+    <br/>
     <a class="label" href="http://blog.nikhil.sh/categories/general">general</a>
     </span>
-    &middot; <time>Jul 28, 2015</time></li>
-  
-    <li><a href="http://blog.nikhil.sh/blog/2015/07/27/first-post/">First Post</a>
-    
-    &middot;
-    <a class="label" href="http://blog.nikhil.sh/categories/general">general</a>
-    </span>
-    &middot; <time>Jul 27, 2015</time></li>
-  
-  </ul>
+    <p>I’ve been meaning to make a blog for sometime, in order to just get back to writing, like I used to do when I was younger. This would also serve as a project for me, as I am not too familiar with working with the web.</p>
+
+<p>I’ve worked with Jekyll, for a bit, when I was making some changes on <a href="http://rebel.tools" title="Rebel Tools">Rebel Tools</a>, and it was pretty fun so I did consider using Jekyll for this blog. However, I chanced upon <a href="http://gohugo.io/" title="Hugo">Hugo</a>, which is a static HTML generator in Go.</p>
+
+<p>I decided to go with Hugo as it is fast (way faster than Jekyll), and it seems cool to try out a new technology!</p>
+
+<p>I decided to go with <a href="https://github.com/zyro/hyde-x" title="hyde-x">Hyde-X</a>, an enhanced port of the Jekyll <em>”Hyde”</em> theme, as it’s simple and looks clean.</p>
+
+<p>It was pretty simple to set this blog up. I don’t think that this steps are in the correct order, but it worked :)</p>
+
+<ul>
+<li>Create a new GitHub repo, and switch the default branch to gh-pages</li>
+<li><code>brew install hugo</code></li>
+<li><code>hugo new site</code></li>
+<li><code>mkdir themes</code></li>
+<li><code>cd themes</code></li>
+<li><code>git clone https://github.com/zyro/hyde-x</code></li>
+<li>Edit the config.toml file in order to edit content that will be generated</li>
+<li>And then you just need to run <code>hugo --theme=hyde-x</code></li>
+<li>cd into the public folder</li>
+<li><code>git init</code></li>
+<li><code>git remote add origin git@github.com:username/repository</code></li>
+<li><code>git add</code></li>
+<li><code>git commit -m message</code> to commit locally</li>
+<li><code>git push origin gh-pages</code> to push to github</li>
+</ul>
+
+<p>If you’d like to set up a custom domain, there are different steps to take if you were to set up as a project site versus as your main site. Do read up on GitHub for help with that. As this is a project site, I went to my domain registrar, added a CNAME record that pointed to <code>nikhilsh.github.io</code> with the <code>blog</code> as the host. I then went over to the folder named static and added a CNAME file there too.</p>
+
+<p>And that’s basically it!</p>
+
+<hr>
+
+<p><em><p align=right>written by @MeNikhil</p></em></p>
+
+  </div>
+  <div id="disqus_thread"></div>
 </div>
+
+
+<script type="text/javascript">
+var disqus_shortname = "nikhilsh";
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
+
+<script type="text/javascript">
+    var disqus_shortname = "nikhilsh";
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
@@ -99,7 +151,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Posts &middot; @MeNikhil</title>
+  <title>First Post &middot; @MeNikhil</title>
 
   
   <link rel="stylesheet" href="/css/poole.css">
@@ -120,9 +172,9 @@
   
   
   
-  <link href="http://blog.nikhil.sh/post/index.xml" rel="alternate" type="application/rss+xml" title="Nikhil&#39;s Blog &middot; @MeNikhil" />
+  
 
-  <meta name="description" content="Nikhil&#39;s blog">
+  <meta name="description" content="Trying out a blog using Hugo, a blogging engine made in Go">
   <meta name="keywords" content="nikhil,blog,ios">
   
 </head>

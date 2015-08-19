@@ -6,15 +6,15 @@
     <description>Recent content in Posts on Nikhil&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2015 19:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2015 19:00:00 +0800</lastBuildDate>
     <atom:link href="http://blog.nikhil.sh/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gaming</title>
-      <link>http://blog.nikhil.sh/blog/2015/08/28/gaming/</link>
-      <pubDate>Fri, 28 Aug 2015 19:00:00 +0800</pubDate>
+      <link>http://blog.nikhil.sh/blog/2015/07/28/gaming/</link>
+      <pubDate>Tue, 28 Jul 2015 19:00:00 +0800</pubDate>
       
-      <guid>http://blog.nikhil.sh/blog/2015/08/28/gaming/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/07/28/gaming/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.dota2.com/international/overview/&#34;&gt;The International 5&lt;/a&gt; is upon us now, and while thousands gather at the Key Arena in Seattle, most Dota players are stuck at home, glued to their screens and just watching teams of 5 battle it out for millions. The prize pool now stands at $18 million (and rising), surpassing prize pools of major sporting tournaments like the Super Bowl and NBA finals. Why then is eSports still being looked down on as just something nerdy teenagers play because they don’t have other things to do?&lt;/p&gt;
 
 &lt;p&gt;As a &lt;a href=&#34;https://en.wikipedia.org/wiki/Dota_2&#34;&gt;Dota&lt;/a&gt; player myself, I can only offer my opinion on the matter from an Action RTS standpoint. This might sound pretty cliche, but Dota to me, is more than just clicking a mouse quickly. From the subtle mechanics, to the mind games, to the synergy with your teammates, and of course, reaction times, make this game more than just a game. Even with thousands of hours played, Dota still offers something new every time you boot a new game out.&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://blog.nikhil.sh/blog/2015/08/27/first-post/</link>
-      <pubDate>Thu, 27 Aug 2015 19:00:00 +0800</pubDate>
+      <link>http://blog.nikhil.sh/blog/2015/07/27/first-post/</link>
+      <pubDate>Mon, 27 Jul 2015 19:00:00 +0800</pubDate>
       
-      <guid>http://blog.nikhil.sh/blog/2015/08/27/first-post/</guid>
+      <guid>http://blog.nikhil.sh/blog/2015/07/27/first-post/</guid>
       <description>&lt;p&gt;I’ve been meaning to make a blog for sometime, in order to just get back to writing, like I used to do when I was younger. This would also serve as a project for me, as I am not too familiar with working with the web.&lt;/p&gt;
 
 &lt;p&gt;I’ve worked with Jekyll, for a bit, when I was making some changes on &lt;a href=&#34;http://rebel.tools&#34; title=&#34;Rebel Tools&#34;&gt;Rebel Tools&lt;/a&gt;, and it was pretty fun so I did consider using Jekyll for this blog. However, I chanced upon &lt;a href=&#34;http://gohugo.io/&#34; title=&#34;Hugo&#34;&gt;Hugo&lt;/a&gt;, which is a static HTML generator in Go.&lt;/p&gt;
