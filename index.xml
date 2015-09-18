@@ -138,23 +138,6 @@ limitations under the License.
     </item>
     
     <item>
-      <title>#links</title>
-      <link>http://blog.nikhil.sh/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/links/</guid>
-      <description>
-
-&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
-
-&lt;p&gt;// # DNS&lt;/p&gt;
-
-&lt;p&gt;// * &lt;a href=&#34;http://www.intodns.com/&#34; target=&#34;_blank&#34;&gt;intoDNS&lt;/a&gt;- Check DNS health
-// * &lt;a href=&#34;https://w3dt.net/&#34; target=&#34;_blank&#34;&gt;World Wide Web Domain Tools by ITOC Australia&lt;/a&gt;- DNS and Web tools&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>#whoami</title>
       <link>http://blog.nikhil.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,6 +153,23 @@ in Singapore University of Technology and Design, pursuing a degree in Computer 
 &lt;p&gt;You can find me on &lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/menikhil&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; and &lt;a title=&#34;Linkedin&#34; href=&#34;http://sg.linkedin.com/in/iamnikhil&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Drop me a mail at &lt;a href=&#34;mailto:me@nikhil.sh?Subject=Hello%20there&#34; target=&#34;_blank&#34;&gt;me@nikhil.sh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#links</title>
+      <link>http://blog.nikhil.sh/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/links/</guid>
+      <description>
+
+&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
+
+&lt;p&gt;// # DNS&lt;/p&gt;
+
+&lt;p&gt;// * &lt;a href=&#34;http://www.intodns.com/&#34; target=&#34;_blank&#34;&gt;intoDNS&lt;/a&gt;- Check DNS health
+// * &lt;a href=&#34;https://w3dt.net/&#34; target=&#34;_blank&#34;&gt;World Wide Web Domain Tools by ITOC Australia&lt;/a&gt;- DNS and Web tools&lt;/p&gt;
 </description>
     </item>
     
