@@ -76,5 +76,40 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>http://blog.nikhil.sh/blog/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/blog/1/01/01/</guid>
+      <description>&lt;p&gt;date = &amp;ldquo;2015-09-18T22:00:00+08:00&amp;rdquo;
+draft = false
+title = “Music”
+description = “Apple Music vs Spotify”
+tags = [ “music”, “apple”, “spotify” ]
+categories = [ &amp;ldquo;general&amp;rdquo; ]&lt;/p&gt;
+
+&lt;p&gt;Anyone who knows me, knows that I am an Apple fanboy. Naturally, when Apple Music launched back in June, I immediately terminated my Spotify premium subscription that I had been using for slightly over 4 months. Apple Music’s promise of tight integration with iOS, and with Beats 1’s promise of being a radio that would never be turned off, and being managed by people who loved music, I was ready to make the switch. I was excited to finally listen to Taylor Swift, even though I’m not a huge fan, but the fact that I hadn’t heard it on Spotify enticed me.&lt;/p&gt;
+
+&lt;p&gt;Apple’s music onboarding was something that was talked about as being an interesting UI experience, and I have to agree that it was interesting. Was it good from a UX point of view? I would say no. It took forever to go through the genres, and the genres were already little as it was. There was no metal, no subgenres of anything, and somehow, K-pop, M-pop and other asian related music kept popping up. I mentioned that I liked K-pop but loved Rock, but Apple insisted on recommend me dozens of K-pop bands. I get that I am in Singapore, but that doesn’t mean I just like Asian music.&lt;/p&gt;
+
+&lt;p&gt;Apple’s Music feedback mechanism was also not to my taste. I didn’t like the fact that I had to tell Apple what music I liked with the heart buttons. I have been an iTunes Match subscriber for years and they should have known what music I own, but no, I had to tell Apple exactly what songs I liked. I’m sure that Apple was tracking my plays, and therefore tried to guess the songs I liked even though I had not favourited them. In either case, the heart button was, to me, utterly useless.&lt;/p&gt;
+
+&lt;p&gt;Beats 1. I can’t entirely blame this on Apple, as apparently MDA was blocking them from broadcasting. &lt;a href=&#34;https://discussions.apple.com/thread/7105059&#34;&gt;Someone&lt;/a&gt; contacted MDA, and apparently Apple was the one who didn’t contact them. We can’t trust this random forum comment, but in either case, the fact is, Beats 1 isn’t in Singapore.&lt;/p&gt;
+
+&lt;p&gt;My biggest gripe with Apple Music is their playlist recommendations. They are horrible. Horrible. Maybe this is because I didn’t favourite every single song, but I did favourite a significant amount. The ‘Recommend Less Like This’ button in iTunes did jack shit. Finally after 3 months, I decided that Apple Music just wasn’t ready yet, at least for me. I then decided to go back to Spotify and within 10 minutes, and 2.5 songs later, I knew I made the right choice.&lt;/p&gt;
+
+&lt;p&gt;Spotify’s Discover Weekly worked. It just worked. I wasn’t forced to ‘heart’ songs that I liked, or kick songs out that I didn’t like. It just simple worked. Playlists were awesome. There were so context sensitive. Burning the midnight oil? No problem, here’s a mix to keep you going. Lazy sunday afternoon?  Here’s a mix to keep you relaxed. I had no idea how much I missed my friends feed as well. If I had wanted to keep my music to myself and not discover new songs, I would just buy albums off iTunes and listen to them offline.&lt;/p&gt;
+
+&lt;p&gt;That being said, Spotify isn’t perfect, there are many songs that aren’t on Spotify, and I hope they are working out reasonable deals with artistes. There’s a reason Taylor Swift chose to go with Apple Music and not Spotify. Spotify’s UI also has room for improvement. I don’t like that my playlists are so cluttered. It makes me think twice about adding playlists.&lt;/p&gt;
+
+&lt;p&gt;I chose Spotify after going on a break for three months for a variety of reasons, and I’m really sad that Apple Music failed for me, but Apple is going to work very hard to bring us Spotify users over.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @MeNikhil&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
