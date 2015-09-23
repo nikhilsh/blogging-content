@@ -39,7 +39,7 @@
 &lt;hr /&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:80a30196a224b6de08ea1ecb0250d3a5:1&#34;&gt;[&lt;a href=&#34;https://discussions.apple.com/thread/7105059&#34;&gt;https://discussions.apple.com/thread/7105059&lt;/a&gt;]
+&lt;li id=&#34;fn:80a30196a224b6de08ea1ecb0250d3a5:1&#34;&gt;&lt;a href=&#34;https://discussions.apple.com/thread/7105059&#34;&gt;https://discussions.apple.com/thread/7105059&lt;/a&gt;
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:80a30196a224b6de08ea1ecb0250d3a5:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -147,20 +147,6 @@ limitations under the License.
     </item>
     
     <item>
-      <title>#links</title>
-      <link>http://blog.nikhil.sh/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/links/</guid>
-      <description>
-
-&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
-
-&lt;p&gt;//nothing as of yet&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>#whoami</title>
       <link>http://blog.nikhil.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,6 +162,20 @@ in Singapore University of Technology and Design, pursuing a degree in Computer 
 &lt;p&gt;You can find me on &lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/menikhil&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; and &lt;a title=&#34;Linkedin&#34; href=&#34;http://sg.linkedin.com/in/iamnikhil&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Drop me a mail at &lt;a href=&#34;mailto:me@nikhil.sh?Subject=Hello%20there&#34; target=&#34;_blank&#34;&gt;me@nikhil.sh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#links</title>
+      <link>http://blog.nikhil.sh/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/links/</guid>
+      <description>
+
+&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
+
+&lt;p&gt;//nothing as of yet&lt;/p&gt;
 </description>
     </item>
     
