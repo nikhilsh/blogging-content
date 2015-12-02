@@ -10,6 +10,33 @@
     <atom:link href="http://blog.nikhil.sh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Workstation</title>
+      <link>http://blog.nikhil.sh/blog/2015/09/18/workstation/</link>
+      <pubDate>Fri, 18 Sep 2015 22:00:00 +0800</pubDate>
+      
+      <guid>http://blog.nikhil.sh/blog/2015/09/18/workstation/</guid>
+      <description>&lt;p&gt;I bought my first &amp;lsquo;gaming&amp;rsquo; equipment back in 2007. It was a Razer Copperhead. I got it at a super discounted rate that even my Mom approved of. It was a thing of beauty, with the green logo pulsating and the curved edges hinting at the amount of effort the designers put in to make this marvel come to life. Fast forward a couple of years, and many Razer products later, I got myself a Razer Blackwidow Ultimate Battlefield 4 edition. What a mouthful.&lt;/p&gt;
+
+&lt;p&gt;It was my first experience with a mechanical keyboard. The Razer Blackwidow Ultimate came with Cherry MX Blue switches, and boy was it loud. I loved pounding away at the keys and listening to the loud feedback from the keys hitting the bottom of the board, which to be honest, isn&amp;rsquo;t the correct way to to be using the switches. Who cares about the correct way though, as long as it feels good :)&lt;/p&gt;
+
+&lt;p&gt;I was using an Apple Wireless keyboard with my MacBook Pro, which is connected to a Dell U2312HM monitor, with my old Razer DeathAdder, but I knew something was missing when typing. I do a decent amount of typing when I code, so I felt that it was fair for me to think about looking for a mechanical keyboard, but I didn&amp;rsquo;t want a noisy one as I would want to bring this keyboard out on occasion.&lt;/p&gt;
+
+&lt;p&gt;I chanced upon a Nappoo Lolita (I know, I know), and for S$60, including shipping, found it a steal. The keyboard does not look very good, and the keycaps do not fit my Mac&amp;rsquo;s function keys as well as modifier keys. After barely a week of using the keyboard, the &amp;lsquo;E&amp;rsquo;, &amp;lsquo;O&amp;rsquo; and &amp;lsquo;X&amp;rsquo; keys started fading. Probably because I kept opening Xcode as it was always crashing.&lt;/p&gt;
+
+&lt;p&gt;I decided to splurge on a set of new keycaps, and spend over a week designing this new set of keys. I found a link to someone who designed his own set of keycaps for his Mac, but I decided to make some modifications to fit my work style. I also decided to take the liberty to change the typeface to San Francisco, Apple&amp;rsquo;s new typeface for everything.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be sure to take picture when the final product is done, but for now, these are the designs. Do let me know what you think I could have done better. Oh and do check out &lt;a href=&#34;WASDKeyboards.com&#34;&gt;WASDKeyboards.com&lt;/a&gt;. Awesome site.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/letters.png&#34; alt=&#34;title&#34; /&gt;
+&lt;img src=&#34;images/color.png&#34; alt=&#34;title&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;p align=right&gt;written by @MeNikhil&lt;/p&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Music</title>
       <link>http://blog.nikhil.sh/blog/2015/09/18/music/</link>
       <pubDate>Fri, 18 Sep 2015 22:00:00 +0800</pubDate>
@@ -147,6 +174,20 @@ limitations under the License.
     </item>
     
     <item>
+      <title>#links</title>
+      <link>http://blog.nikhil.sh/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/links/</guid>
+      <description>
+
+&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
+
+&lt;p&gt;//nothing as of yet&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>#whoami</title>
       <link>http://blog.nikhil.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,20 +203,6 @@ in Singapore University of Technology and Design, pursuing a degree in Computer 
 &lt;p&gt;You can find me on &lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/menikhil&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; and &lt;a title=&#34;Linkedin&#34; href=&#34;http://sg.linkedin.com/in/iamnikhil&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Drop me a mail at &lt;a href=&#34;mailto:me@nikhil.sh?Subject=Hello%20there&#34; target=&#34;_blank&#34;&gt;me@nikhil.sh&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>#links</title>
-      <link>http://blog.nikhil.sh/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/links/</guid>
-      <description>
-
-&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
-
-&lt;p&gt;//nothing as of yet&lt;/p&gt;
 </description>
     </item>
     
