@@ -17,7 +17,7 @@
       <guid>http://blog.nikhil.sh/blog/2016/01/30/dream-theater/</guid>
       <description>&lt;p&gt;&lt;em&gt;Dream Theater&lt;/em&gt; has been my favourite band for a long time. These progressive metal/rock greats have time and time again pushed the progressive genre further.&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&#34;https://embed.spotify.com/?uri=spotify%3aartist%3a2aaLAng2L2aWD2FClzwiep&#34; width=&#34;250&#34; height=&#34;80&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://embed.spotify.com/?uri=spotify:artist:2aaLAng2L2aWD2FClzwiep&amp;view=coverart&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Sadly for me, &lt;em&gt;Systematic Chaos&lt;/em&gt;
 was, subjectively, their last good album. It seemed that Mike Portnoy, the band&amp;rsquo;s drummer and leader, realised that the material was not up to the usual standard on their next album, Black Clouds and Silver Linings, and thus decided to take a break, and that meant a split from the band as the rest of the members did not want to take a break.&lt;/p&gt;
@@ -238,20 +238,6 @@ limitations under the License.
     </item>
     
     <item>
-      <title>#links</title>
-      <link>http://blog.nikhil.sh/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nikhil.sh/links/</guid>
-      <description>
-
-&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
-
-&lt;p&gt;//nothing as of yet&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>#whoami</title>
       <link>http://blog.nikhil.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -267,6 +253,20 @@ in Singapore University of Technology and Design, pursuing a degree in Computer 
 &lt;p&gt;You can find me on &lt;a title=&#34;twitter&#34; href=&#34;http://twitter.com/menikhil&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; and &lt;a title=&#34;Linkedin&#34; href=&#34;http://sg.linkedin.com/in/iamnikhil&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Drop me a mail at &lt;a href=&#34;mailto:me@nikhil.sh?Subject=Hello%20there&#34; target=&#34;_blank&#34;&gt;me@nikhil.sh&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#links</title>
+      <link>http://blog.nikhil.sh/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.nikhil.sh/links/</guid>
+      <description>
+
+&lt;h3 id=&#34;a-collection-of-some-of-my-frequently-used-links:424069113a08a4256349764ee38dbbbf&#34;&gt;A collection of (some of) my frequently used links.&lt;/h3&gt;
+
+&lt;p&gt;//nothing as of yet&lt;/p&gt;
 </description>
     </item>
     
